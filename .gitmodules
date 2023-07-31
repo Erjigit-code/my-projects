@@ -1,0 +1,3 @@
+[submodule "magic-ball"]
+	path = magic-ball
+	url = https://github.com/Erjigit-code/magic-ball.git
